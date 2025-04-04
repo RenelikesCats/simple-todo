@@ -1,4 +1,4 @@
-A very simple todo webpage :)
+A very simple todo webpage using REACT :)
 
 to view it go to: https://renelikescats.github.io/simple-todo/
 
